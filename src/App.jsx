@@ -4,7 +4,7 @@ const fecha = new Date().toLocaleString();
 return ( 
 <main>
     <h1>Hola SENA</h1>
-    <p>Soy Samuel Estrada Hernandez y estoy en mi primera clase de reactJS</p>
+    <p>Soy Samuel Estrada Hernandez y estoy en mi primera clase de reactJS y espero aprender mucho sobre el front con react ya que me quiero especializar en toda la linea de javascript</p>
     <p>{fecha}</p>
 </main>
   )
