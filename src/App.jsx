@@ -4,8 +4,8 @@ import {
   crearContacto,
   eliminarContactoPorId,
 } from "./api.js";
-import FormularioContacto from "./components/FormularioContacto";
-import ContactoCard from "./components/ContactoCard";
+import FormularioContacto from "./Components/FormularioContacto";
+import ContactoCard from "./Components/ContactoCard";
 
 export default function App() {
   // Estado principal de la app
